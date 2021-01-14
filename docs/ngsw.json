@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1610616168317,
+  "index": "/angular-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-test/favicon.ico",
+        "/angular-test/index.html",
+        "/angular-test/main.96c0033010e24958a003.js",
+        "/angular-test/manifest.webmanifest",
+        "/angular-test/polyfills.8c151b8375e767ff858f.js",
+        "/angular-test/runtime.0e49e2b53282f40c8925.js",
+        "/angular-test/styles.fefcc4427e681ec9b5b1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-test/assets/icons/icon-128x128.png",
+        "/angular-test/assets/icons/icon-144x144.png",
+        "/angular-test/assets/icons/icon-152x152.png",
+        "/angular-test/assets/icons/icon-192x192.png",
+        "/angular-test/assets/icons/icon-384x384.png",
+        "/angular-test/assets/icons/icon-512x512.png",
+        "/angular-test/assets/icons/icon-72x72.png",
+        "/angular-test/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/angular-test/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-test/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-test/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-test/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-test/index.html": "cc1aea2d8627d0025da4445fa33db028514bffca",
+    "/angular-test/main.96c0033010e24958a003.js": "7745c99aeecf4b6edeb6dfd2330e366f4d11fcfe",
+    "/angular-test/manifest.webmanifest": "b6595cefd3538006f39788c4a56130406b8a79a3",
+    "/angular-test/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/angular-test/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/angular-test/styles.fefcc4427e681ec9b5b1.css": "0e1770ec6e6bb322a77649b15ce989c932f81951"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
